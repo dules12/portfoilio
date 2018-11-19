@@ -1,0 +1,13 @@
+blockquote:before, blockquote:after, q:before, q:after {
+  content: '';
+  content: none;
+}
+
+body {
+	-webkit-text-size-adjust: none;
+}
+
+input::-moz-focus-inner {
+	border: 0;
+	padding: 0;
+}
