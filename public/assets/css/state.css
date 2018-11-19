@@ -6,8 +6,3 @@ blockquote:before, blockquote:after, q:before, q:after {
 body {
 	-webkit-text-size-adjust: none;
 }
-
-input::-moz-focus-inner {
-	border: 0;
-	padding: 0;
-}
